@@ -12,7 +12,7 @@ namespace WeatherSOAP
     class Program
     {
         private static readonly HttpClient client = new HttpClient();
-        private const string apiKey = "JXL5RKDX3RL53KYU2D489PS3H"; 
+        private const string apiKey = "xxx"; 
 
         static async Task Main(string[] args)
         {
